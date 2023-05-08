@@ -7,6 +7,7 @@ public class Test1 {
 		System.out.println("HI sowmya");
 		if(2==2){
 			System.out.println("both are equal");
+		}
 
 	}
 
